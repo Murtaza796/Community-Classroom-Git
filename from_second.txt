@@ -1,0 +1,2 @@
+This is the new file to be merged
+defaultly with 1 commit0
